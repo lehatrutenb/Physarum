@@ -1,7 +1,6 @@
 program hello;
 uses GraphABc;
 var Good: array [1..1000] of array [1..1000] of real;
-var 
 var GrofPhX array [1..1000000] of integer;
 var GrofPhY: array [1..1000000] of integer;
 
